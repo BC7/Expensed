@@ -1,6 +1,6 @@
 {
-  "name": "Expensed",
-  "version": "0.0.1",
+  "name": "expensed",
+  "version": "0.1.2",
   "private": true,
   "scripts": {
     "android": "react-native run-android",
